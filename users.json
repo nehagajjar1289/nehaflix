@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "username": "neha1234",
+      "password": "neha1234"
+    }
+  ],
+  "nehagajjar1234": {
+    "password": "nehagajjar1234",
+    "created": "2026-03-18 09:32:28.500923",
+    "watchlist": []
+  },
+  "laxitgajjar123": {
+    "password": "laxitgajjar123",
+    "watchlist": [],
+    "downloads": [],
+    "history": [
+      {
+        "title": "Snow White",
+        "when": "2026-08-21 00:03:03.028128",
+        "progress": 86
+      },
+      {
+        "title": "tare zameen par",
+        "when": "2026-08-21 00:03:01.708906",
+        "progress": 59
+      },
+      {
+        "title": "Dangal",
+        "when": "2026-08-21 00:02:51.749105",
+        "progress": 70
+      }
+    ],
+    "created": "2026-07-09 21:22:11.984626",
+    "party_joined": true
+  }
+}

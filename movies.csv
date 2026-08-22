@@ -1,0 +1,15 @@
+movie_id,title,genre,rating,poster,trailer
+1,tare zameen par,Drama,8.4,tare zameen par.png,https://www.youtube.com/watch?v=XLUBcZQSZ70
+2,Dangal,Drama,8.3,dangal.png,https://www.youtube.com/watch?v=x_7YlGv9u1g
+3,Bahubali,Action,8.1,bahubali.png,https://www.youtube.com/watch?v=q2aENKR59w4
+4,KGF,Action,8.2,kgf.png,https://www.youtube.com/watch?v=-KfsY-qwBS0
+5,Pushpa,Action,8.0,pushpa.png,https://www.youtube.com/watch?v=Q1NKMPhP8PY
+6,Shiddat,Romance,7.5,shiddat.png,https://www.youtube.com/watch?v=FYfjV31tE3o
+7,satyaprem ki katha,Romance,7.6,satyaprem ki katha.png,https://www.youtube.com/watch?v=8EPJiFfWRfw
+8,Total Dhamal,Comedy,8.0,totaldhamal.png,https://www.youtube.com/watch?v=fo9EhcwQXcM
+9,Munja,Horror,9.1,munjya.png,https://www.youtube.com/watch?v=8X3uF80H5LU
+10,Zootopia,Animation,8.0,zootopia.png,https://www.youtube.com/watch?v=LzMyLV2pwws
+11,Housefull4,Comedy,8.1,Housefull4.png,https://www.youtube.com/watch?v=gcHH34cEl3Y
+12,12 Fail,Biopic,7.2,12fail.png,https://www.youtube.com/watch?v=afEJYg0tyJ4
+13,Snow White,Family,9.1,SnowWhite.png,https://www.youtube.com/watch?v=aehhDN8p6Ws
+14,Lion King,Fantasy,9.0,LionKing.png,https://www.youtube.com/watch?v=mTy2Khuv_1s
